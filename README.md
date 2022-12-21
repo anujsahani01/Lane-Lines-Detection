@@ -10,4 +10,4 @@ the model was trained for 100 epochs
 To draw the lanes i have used the following techniques:
 1) used Sobel from opencv to blur the image
 2) Used HoughLinesP to extract the edges and vertical lines from the region o fintrest
-3) finally draw the lanes using an avg slope and inteercept
+3) finally draw the lanes using an avg slope and intercept
