@@ -35,6 +35,8 @@ The U-Net model was trained for 100 epochs, and the following results were achie
 * Training Accuracy: 0.9479
 * Validation Loss: 0.2078
 * Validation Accuracy: 0.9440
+
+
 During training, the model iteratively learned to minimize the loss function and improve its accuracy in predicting lane lines.
 
 By leveraging the power of U-Net architecture and combining it with image processing techniques, the model achieved impressive results in lane line detection. The trained model can now accurately identify and plot the lane lines in road images, providing valuable information for various applications such as autonomous driving and road maintenance.
